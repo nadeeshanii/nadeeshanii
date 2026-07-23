@@ -24,32 +24,34 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,flutter" />
 </p>
 
 
-### Backend & Frameworks
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 
-### Database & Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 </p>
 
 
-### ERP & Other Technologies
+### ERP & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 - 🏢 Odoo 17 / Odoo 18
-- 🐍 Python
 - 📄 XML / QWeb Reports
+- 🐍 Python
 - 🐘 PostgreSQL
-- 📱 Flutter
-
 
 # 📂 Featured Projects
 
