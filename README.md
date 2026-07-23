@@ -21,41 +21,13 @@
 
 ## 💻 Tech Stack
 
-### Frontend
-
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- Bootstrap
-- Flutter
-
-
-### Backend
-
-- Node.js
-- Express.js
-- Python
-- Odoo Framework
-
-
-### Database
-
-- MongoDB
-- PostgreSQL
-- MySQL
-- Firebase
-
-
-### Tools & Technologies
-
-- Git & GitHub
-- VS Code
-- Figma
-- REST APIs
-- XML
-- QWeb Reports
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React.js,, JavaScript, TypeScript, Tailwind CSS,, Flutter |
+| Backend | Node.js, Express.js, Python, Odoo Framework |
+| Database | MongoDB, PostgreSQL, MySQL, Firebase |
+| Tools | Git, GitHub, VS Code, Figma, Postman |
+| ERP & Reporting | Odoo 17/18, XML, QWeb Reports |
 
 
 ## 📂 Featured Projects
