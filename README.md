@@ -1,4 +1,4 @@
-#  Hi, I'm Nadeeshani Wijebandara
+# 👋 Hi, I'm Nadeeshani Wijebandara
 
 <p align="center">
   <b>Software Engineer Intern | Odoo Developer | Full-Stack Developer</b>
@@ -15,7 +15,7 @@
 - 🎓 National Diploma in Technology - Information Technology  
   Institute of Technology, University of Moratuwa
 - 💡 Passionate about **Full-Stack Development, ERP Systems, AI Applications, and Software Engineering**
-- 🌱 Currently learning **Odoo Development, MERN Stack, Machine Learning, and Cloud Technologies**
+- 🌱 Currently improving my skills in **Odoo Development, MERN Stack, Machine Learning, and Cloud Technologies**
 - 🎯 Goal: Build scalable and meaningful software solutions
 
 
@@ -23,37 +23,42 @@
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,flutter" />
-</p>
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Bootstrap
+- Flutter
 
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
+- Node.js
+- Express.js
+- Python
+- Odoo Framework
 
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
-</p>
+- MongoDB
+- PostgreSQL
+- MySQL
+- Firebase
 
 
-### ERP & Development Tools
+### Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+- Git & GitHub
+- VS Code
+- Figma
+- REST APIs
+- XML
+- QWeb Reports
 
-- 🏢 Odoo 17 / Odoo 18
-- 📄 XML / QWeb Reports
-- 🐍 Python
-- 🐘 PostgreSQL
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 
 ## 🏪 Peekaboo - Small Business Management System
@@ -128,14 +133,14 @@ During my Software Engineer Internship, I worked on customized ERP solutions usi
 
 ### Technologies
 
+- Odoo 17 / Odoo 18
 - Python
 - XML
 - PostgreSQL
-- Odoo Framework
 
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -146,8 +151,7 @@ During my Software Engineer Internship, I worked on customized ERP solutions usi
 </p>
 
 
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 
