@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nadeeshani Wijebandara
+#  Hi, I'm Nadeeshani Wijebandara
 
 <p align="center">
   <b>Software Engineer Intern | Odoo Developer | Full-Stack Developer</b>
